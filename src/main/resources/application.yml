@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://td:Pwd4Mongo@imgr-cluster.xmpbn.mongodb.net/sample_gseg?retryWrites=true&w=majority
+      uri: mongodb+srv://ABC:XYZ@imgr-cluster.xmpbn.mongodb.net/sample_gseg?retryWrites=true&w=majority
